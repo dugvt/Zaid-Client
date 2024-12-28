@@ -3,4 +3,5 @@ A powerful executor designed for puzzling
 
 ## Features
 - Supports arabic code
-- You'll never get caught
+- Makes excuses for you
+- Uber secret chomik
